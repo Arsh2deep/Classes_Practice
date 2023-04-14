@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/bin/Debug/net6.0/Classes_Practice
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/bin/Debug/net6.0/Classes_Practice.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/bin/Debug/net6.0/Classes_Practice.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/bin/Debug/net6.0/Classes_Practice.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/bin/Debug/net6.0/Classes_Practice.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/refint/Classes_Practice.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/Classes_Practice.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Classes_Practice/Classes_Practice/obj/Debug/net6.0/ref/Classes_Practice.dll
